@@ -39,7 +39,7 @@ const Bannar = () => {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src={bannar1}
+                        src={bannar3}
                         alt="Third slide"
                     />
 
